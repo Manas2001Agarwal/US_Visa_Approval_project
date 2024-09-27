@@ -31,7 +31,7 @@ list_of_files = [
     "demo.py",
     "setuo.py",
     "config/model.yaml",
-    "config.schema.yaml"
+    "config/schema.yaml"
 ]
 
 for file in list_of_files:
